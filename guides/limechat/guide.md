@@ -30,7 +30,7 @@ Your password is the password you signed up for IRCRelay with.
 Unfortunately, we'll need to bypass the check on the client and put in our Nickname. This is the nickname for this specific network.
 
 We will automatically override the rest with the settings you provided when
-congfiguring your network on ircrelay.com.
+configuring your network on ircrelay.com.
 
 Make sure to go to the settings page in IRCRelay and varifying the username
 for this specific network. It is different then the username you signed up with.
