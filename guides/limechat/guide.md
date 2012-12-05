@@ -12,9 +12,11 @@ You'll be prompted with a welcome screen. You don't need that.
 
 Click "Cancel" and then "Add Server" from the "Server" dropdown menu at the top.
 
+![Add Server Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/limechat/img/add_server.png)
+
 The Add Server screen will look like this:
 
-![Add Server Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/limechat/img/add_server.png)
+![Connection Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/limechat/img/connection.png)
 
 The Name of the Network is up to you! Since we're setting up a freenode
 network, I'm going to call mine IRCRelay Freenode.
@@ -32,10 +34,6 @@ congfiguring your network on ircrelay.com.
 
 Make sure to go to the settings page in IRCRelay and varifying the username
 for this specific network. It is different then the username you signed up with.
-
-Your connection should like something like this:
-
-![Connection Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/limechat/img/connection.png)
 
 That's it for configuration. Click "Ok".
 
