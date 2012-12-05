@@ -5,6 +5,7 @@ This repository contains guides for how to set-up IRCRelay with your client.
 Currently, we have guides for the following clients:
 
 - [Textual](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/guide.md#textual-ircrelay-set-up-guide)
+- [Colloquy](/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
 
 ## Contributing
 
