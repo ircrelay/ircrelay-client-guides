@@ -8,13 +8,13 @@ First, you'll need do download and install [Textual](http://codeux.com/textual/)
 
 You'll be prompted with a welcome screen. You don't need that.
 
-![Welcome](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/img/welcome.png)
+![Welcome](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/textual/img/welcome.png)
 
 Click "Cancel" and then the "Add Server" button on the left side of the client.
 
 The Add Server screen will look like this:
 
-![Add Server Dialog](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/img/add_server.png)
+![Add Server Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/textual/img/add_server.png)
 
 The Name of the Network is up to you! Since we're setting up a freenode
 network, I'm going to call mine IRCRelay Freenode.
@@ -27,7 +27,7 @@ Your password is the password you signed up for IRCRelay with.
 
 Now, go to the Identity section:
 
-![Username Dialog](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/img/username.png)
+![Username Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/textual/img/username.png)
 
 The only thing you need to change here is the username field. We will
 automatically override the rest with the settings you provided when
@@ -43,7 +43,7 @@ That's it for configuration. Click "Save".
 Last but not least, connect to your server by right clicking on the name of it
 in the sidebar and pressing connect:
 
-![Connection Dialog](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/img/conn_dialog.png)
+![Connection Dialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/textual/img/conn_dialog.png)
 
 ### Support
 
