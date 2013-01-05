@@ -33,7 +33,7 @@ The only thing you need to change here is the username field. We will
 automatically override the rest with the settings you provided when
 congfiguring your network on ircrelay.com.
 
-Make sure to go to the settings page in IRCRelay and varifying the username
+Make sure to go to the settings page in IRCRelay and verifying the username
 for this specific network. It is different then the username you signed up with.
 
 That's it for configuration. Click "Save".
