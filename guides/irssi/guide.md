@@ -1,4 +1,4 @@
-## Textual IRCRelay Set-up Guide
+## irssi IRCRelay Set-up Guide
 
 ### Get the Client
 
@@ -19,7 +19,7 @@ If you don't mind your IRCRelay password being available in clear text, you coul
 
 To start your connection to IRCRelay just use ```/CONNECT IRCRelay```.
 
-If you didn't specify your irc password, you'll be prompted to provide on the initial connection and can use the following command: ```/QUOTE PASS <IRCRelay <your IRCRelay password>```
+If you didn't specify your irc password, you'll be prompted to provide on the initial connection and can use the following command: ```/QUOTE PASS <IRCRelay>:<your IRCRelay password>```
 
 Incidentally when you next start up irssi, you'll automatically connect to IRCRelay.
 
