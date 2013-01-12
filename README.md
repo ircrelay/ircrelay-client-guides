@@ -8,6 +8,7 @@ Currently, we have guides for the following clients:
 - [Colloquy](/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
 - [Limechat](/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md#limechat-ircrelay-set-up-guide)
 - [Linkinus](/ircrelay/ircrelay-client-guides/blob/master/guides/linkinus/guide.md#linkinus-ircrelay-set-up-guide)
+- [irssi](/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
 
 ## Contributing
 
