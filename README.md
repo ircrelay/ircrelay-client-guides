@@ -4,11 +4,11 @@ This repository contains guides for how to set-up IRCRelay with your client.
 
 Currently, we have guides for the following clients:
 
-- [Textual](/ircrelay/ircrelay-client-guides/blob/master/guides/textual/guide.md#textual-ircrelay-set-up-guide)
-- [Colloquy](/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
-- [Limechat](/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md#limechat-ircrelay-set-up-guide)
-- [Linkinus](/ircrelay/ircrelay-client-guides/blob/master/guides/linkinus/guide.md#linkinus-ircrelay-set-up-guide)
-- [irssi](/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
+- [Textual](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/textual/guide.md#textual-ircrelay-set-up-guide)
+- [Colloquy](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md)
+- [Limechat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md)
+- [Linkinus](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/linkinus/guide.md)
+- [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md)
 
 ## Contributing
 
