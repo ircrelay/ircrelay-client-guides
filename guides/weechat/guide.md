@@ -5,7 +5,7 @@ lightweight and scriptable in several languages.
 
 ### Get the Client
 
-First, you'll need do download and install [weechat](http://www.weechat.org/). If you're on OS X it's available using homebrew:
+First, you'll need to download and install [weechat](http://www.weechat.org/). If you're on OS X it's available using homebrew:
  
 `brew install weechat`
 
