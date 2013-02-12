@@ -91,7 +91,53 @@ Save this as `erc-settings.el` somewhere in your emacs load-path.
 
 ```
 
-Securely storing your password outside of this configuration file is left as an exercise for the reader, but is recommended.
+### Securely storing your password
+
+Since it's generally not a good idea to store your password in plain
+text you may want to add the following bits to store it securely
+outside of your erc settings.
+
+Emacs can easily parse gpg encrypted netrc/authinfo files so this
+is a simple way to securely store your password. Create
+`~/.authinfo.gpg` with contents like this:
+
+```
+machine irc.ircrelay.com login username password supersecretpassword port 6697
+```
+
+Add the appropriate require:
+
+```lisp
+(require 'netrc)
+```
+
+Next define a function that can parse this file and return the password
+
+```lisp
+(defun get-authinfo (host port)
+  (let* ((netrc (netrc-parse (expand-file-name "~/.authinfo.gpg")))
+         (hostentry (netrc-machine netrc host port port)))
+    (when hostentry (netrc-get hostentry "password"))))
+```
+
+Then use this instead of directly typing your password in the
+irc-connect function from the previous configuration example.
+
+```lisp
+;; connect function
+(defun irc-connect ()
+  "Connect to IRC"
+  (interactive)
+  (when (y-or-n-p "Connect to IRC? ")
+    (ircrelay-connect "nickname1" "Your Name" "user_network1" (get-authinfo "irc.ircrelay.com" "6697"))
+    (ircrelay-connect "nickname2" "Your Name" "user_network2" (get-authinfo "irc.ircrelay.com" "6697"))
+))
+```
+
+You will be prompted for your gpg password to decrypt the
+`~/.authinfo.gpg` when needed. If you have two connections, as in the
+example, you will be prompted twice. Your ircrelay password is now a
+little more secure.
 
 ### Connect
 
