@@ -9,6 +9,7 @@ Currently, we have guides for the following clients:
 - [Limechat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md#limechat-ircrelay-set-up-guide)
 - [Linkinus](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/linkinus/guide.md#linkinus-ircrelay-set-up-guide)
 - [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
+- [mirc](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/mirc/guide.md#mirc-ircrelay-set-up-guide)
 - [WeeChat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/weechat/guide.md#weechat-ircrelay-set-up-guide)
 - [ERC](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/erc/guide.md#erc-ircrelay-set-up-guide)
 
