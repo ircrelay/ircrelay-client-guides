@@ -1,4 +1,4 @@
-## Limechat IRCRelay Set-up Guide
+## mIRC IRCRelay Set-up Guide
 
 ### Get the Client
 
