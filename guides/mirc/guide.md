@@ -8,25 +8,25 @@ First, you'll need do download and install [mIRC](http://www.mirc.com/).
 
 If you're not already on the options screen, click on it's icon.
 
-![OptionsIcon](https://raw.github.com/booyaa/ircrelay-client-guides/master/guides/mirc/img/options_icon.png)
+![OptionsIcon](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/mirc/img/options_icon.png)
 
 Your options screen will look like this:
 
-![OptionsDialog](https://raw.github.com/booyaa/ircrelay-client-guides/master/guides/mirc/img/options.png)
+![OptionsDialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/mirc/img/options.png)
 
-The nick name you specify will be overridden by the setting on our server.
+The nickname you specify will be overridden by the settings on IRCRelay.
 
 Your email will be in the format of ircrelayusername_ircnetwork@ircrelay.com. mIRC uses this as your user name to authenticate with IRCRelay.
 
 Click on the "Server" folder of "Connect" to view the Server List
 
-![ServerList](https://raw.github.com/booyaa/ircrelay-client-guides/master/guides/mirc/img/server_list.png)
+![ServerList](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/mirc/img/server_list.png)
 
 Click "Add" to add a new server.
 
 The Edit Server screen will look like this:
 
-![EditServerDialog](https://raw.github.com/booyaa/ircrelay-client-guides/master/guides/mirc/img/edit_server.png)
+![EditServerDialog](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/mirc/img/edit_server.png)
 
 The Name of the Network is up to you! Since we're setting up a freenode
 network, I'm going to call mine IRCRelay Freenode.
