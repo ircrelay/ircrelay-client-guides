@@ -8,8 +8,7 @@ First, you'll need do download and install [mIRC](http://www.mirc.com/).
 
 If you're not already on the options screen, click on it's icon.
 
-![OptionsIcon](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/mirc/img/options_icon.png)
-(
+![OptionsIcon](https://raw.github.com/booyaa/ircrelay-client-guides/master/guides/mirc/img/options_icon.png)
 
 Your options screen will look like this:
 
