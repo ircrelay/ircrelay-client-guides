@@ -10,7 +10,7 @@ You'll be prompted with a welcome screen. You don't need that.
 
 ![Welcome](https://raw.github.com/ircrelay/ircrelay-client-guides/master/guides/textual/img/welcome.png)
 
-Click "Cancel" and then the "Add Server" button on the left side of the client.
+Click "Cancel" and then select "Add Server" from the "Server" menu.
 
 The Add Server screen will look like this:
 
