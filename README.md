@@ -4,6 +4,7 @@ This repository contains guides for how to set-up IRCRelay with your client.
 
 Currently, we have guides for the following clients:
 
+- [Adium](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/adium/guide.md#adium-ircrelay-set-up-guide)
 - [Colloquy](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
 - [ERC](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/erc/guide.md#erc-ircrelay-set-up-guide)
 - [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
