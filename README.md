@@ -4,14 +4,14 @@ This repository contains guides for how to set-up IRCRelay with your client.
 
 Currently, we have guides for the following clients:
 
-- [Textual](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/textual/guide.md#textual-ircrelay-set-up-guide)
 - [Colloquy](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
+- [ERC](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/erc/guide.md#erc-ircrelay-set-up-guide)
+- [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
 - [Limechat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md#limechat-ircrelay-set-up-guide)
 - [Linkinus](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/linkinus/guide.md#linkinus-ircrelay-set-up-guide)
-- [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
 - [mirc](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/mirc/guide.md#mirc-ircrelay-set-up-guide)
+- [Textual](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/textual/guide.md#textual-ircrelay-set-up-guide)
 - [WeeChat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/weechat/guide.md#weechat-ircrelay-set-up-guide)
-- [ERC](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/erc/guide.md#erc-ircrelay-set-up-guide)
 
 ## Contributing
 
