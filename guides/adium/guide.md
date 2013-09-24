@@ -2,7 +2,7 @@
 
 ### You should probably get it before you set it up
 
-Download Adium from [adium.im](adium.im).
+Download Adium from [adium.im](http://adium.im).
 
 ### Adding each server
 
