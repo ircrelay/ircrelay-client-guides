@@ -16,7 +16,7 @@ Make sure to check the Use SSL Connection box.
 
 Your password is the password you signed up for IRCRelay with.
 
-Make sure to go to the settings page in IRCRelay and varifying the username
+Make sure to go to the settings page in IRCRelay and verify the username
 for this specific network. It is different then the username you signed up with.
 
 You may want to click the Remember Connection box to make this easier in the future.
