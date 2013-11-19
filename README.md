@@ -6,6 +6,7 @@ Currently, we have guides for the following clients:
 
 - [Adium](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/adium/guide.md#adium-ircrelay-set-up-guide)
 - [Colloquy](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy/guide.md#colloquy-ircrelay-set-up-guide)
+- [Colloquy iOS](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/colloquy-ios/guide.md#colloquy-for-ios-ircrelay-set-up-guide)
 - [ERC](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/erc/guide.md#erc-ircrelay-set-up-guide)
 - [irssi](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/irssi/guide.md#irssi-ircrelay-set-up-guide)
 - [Limechat](https://github.com/ircrelay/ircrelay-client-guides/blob/master/guides/limechat/guide.md#limechat-ircrelay-set-up-guide)
